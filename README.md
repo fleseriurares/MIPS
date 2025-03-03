@@ -4,7 +4,7 @@ A VHDL implementation of the MIPS (Microprocessor without Interlocked Pipeline S
 
 ## Description
 
-This project provides a VHDL implementation of the MIPS architecture. MIPS is a RISC (Reduced Instruction Set Computing) architecture. The VHDL implementation aims to provide a simplified version of the MIPS processor
+This project provides a VHDL implementation of the MIPS architecture. MIPS is a RISC (Reduced Instruction Set Computing) architecture. The VHDL implementation aims to provide a simplified version of the MIPS processor.
 
 ## Features
 
